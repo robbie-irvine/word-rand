@@ -27,7 +27,7 @@ dependencies = [
 ]
 
 [[package]]
-name = "word_rand"
+name = "word-rand"
 version = "0.1.0"
 dependencies = [
  "fastrand",
